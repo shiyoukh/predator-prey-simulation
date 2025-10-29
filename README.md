@@ -1,6 +1,7 @@
 # 🧠 Minecraft Mob Predator/Prey Simulation
 
 A dynamic ecosystem simulation inspired by **Minecraft**’s mobs, where predators and prey interact, evolve, and adapt to their environment.
+Each run is uniquely defined with a **randomly** assigned seed.
 
 ---
 
