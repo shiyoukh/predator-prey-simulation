@@ -47,7 +47,7 @@ The project emphasizes modularity, maintainability, and performance, using **enu
    
    👉 [**Download Predator-Prey Simulation Installer for Mac (.dmg)**](https://github.com/shiyoukh/predator-prey-simulation/releases/download/v1.0.0/PredatorPreySimulation-MACOSX-1.0.0.dmg)
    
-2. Run the `.msi` file.
+2. Run the `.msi` / `.dmg` file.
 3. Once installed, open from **Start Menu → Predator Prey Simulation**.
 
 ### 💻 Developers
