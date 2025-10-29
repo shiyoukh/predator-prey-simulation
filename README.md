@@ -53,4 +53,4 @@ The project emphasizes modularity, maintainability, and performance, using **enu
 ### 💻 Developers
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/shiyoukh/predator-prey-simulation.git
