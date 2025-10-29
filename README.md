@@ -2,10 +2,6 @@
 
 A dynamic ecosystem simulation inspired by **Minecraft**’s mobs, where predators and prey interact, evolve, and adapt to their environment.
 
-Developed by:
-- **Ali Alshiyoukh** ([ali.alshiyoukh@kcl.ac.uk](mailto:ali.alshiyoukh@kcl.ac.uk))
-
-
 ---
 
 ## 🌍 Overview
