@@ -42,8 +42,11 @@ The project emphasizes modularity, maintainability, and performance, using **enu
 
 ### 🪟 Windows Users
 1. Download the latest installer from the link below:
+   
    👉 [**Download Predator-Prey Simulation Installer for Windows (.msi)**](https://github.com/shiyoukh/predator-prey-simulation/releases/download/v1.0.0/PredatorPreySimulation-1.0.0.msi)
+   
    👉 [**Download Predator-Prey Simulation Installer for Mac (.dmg)**](https://github.com/shiyoukh/predator-prey-simulation/releases/download/v1.0.0/PredatorPreySimulation-MACOSX-1.0.0.dmg)
+   
 2. Run the `.msi` file.
 3. Once installed, open from **Start Menu → Predator Prey Simulation**.
 
